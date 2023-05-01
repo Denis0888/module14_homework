@@ -1,0 +1,10 @@
+.container_photos {
+   display: flex; 
+   flex-flow: wrap; 
+   flex-direction: row; 
+   width: 1000px;
+}
+.container_photos img {
+   width: 150px; 
+   margin: 10px
+}
